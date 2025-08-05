@@ -27,4 +27,4 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios ingresa
    Haz clic en "Sortear amigo" para seleccionar uno de los amigos al azar.
    
    El nombre sorteado aparecerá debajo como el amigo secreto. 
-   - Estado del proyecto: Finalizado.
+- Estado del proyecto: Finalizado.
