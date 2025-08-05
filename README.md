@@ -17,18 +17,14 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios ingresa
   CSS
   JavaScript 
 
-🚀 ¿Cómo usar la aplicación?
-Escribe el nombre de un amigo en el campo de texto.
-
-Haz clic en el botón "Añadir" para agregarlo a la lista.
-
-Repite el proceso hasta que todos los nombres estén ingresados.
-
-Haz clic en "Sortear amigo" para seleccionar uno de los amigos al azar.
-
-El nombre sorteado aparecerá debajo como el amigo secreto. 
-
-
-
-
-- Estado del proyecto: Finalizado.
+   ¿Cómo usar la aplicación?
+   Escribe el nombre de un amigo en el campo de texto.
+   
+   Haz clic en el botón "Añadir" para agregarlo a la lista.
+   
+   Repite el proceso hasta que todos los nombres estén ingresados.
+   
+   Haz clic en "Sortear amigo" para seleccionar uno de los amigos al azar.
+   
+   El nombre sorteado aparecerá debajo como el amigo secreto. 
+   - Estado del proyecto: Finalizado.
